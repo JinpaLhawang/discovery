@@ -19,3 +19,7 @@ mvn package
 ```
 mvn spring-boot:run
 ```
+
+## Requesting System Information
+
+http://localhost:8761/
