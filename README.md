@@ -1,10 +1,10 @@
-# eureka
+# discovery
 
 ## Setup
 
 ```
-git clone https://github.com/JinpaLhawang/eureka.git
-cd eureka
+git clone https://github.com/JinpaLhawang/discovery.git
+cd discovery
 ```
 
 ## Testing and Building

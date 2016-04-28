@@ -7,11 +7,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.jinpalhawang.jambudvipa</groupId>
-  <artifactId>eureka</artifactId>
+  <artifactId>discovery</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>eureka</name>
+  <name>discovery</name>
   <description>Discovery Service using Spring Cloud Eureka Server</description>
 
   <parent>
