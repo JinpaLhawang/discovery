@@ -16,7 +16,7 @@ public class DiscoveryApplication {
     final SpringApplication app = new SpringApplication(DiscoveryApplication.class);
     app.setLogStartupInfo(false);
     app.run(args);
-    log.info(DiscoveryApplication.class.getSimpleName() + " started...");
+    log.info(DiscoveryApplication.class.getSimpleName() + " started.");
   }
 
 }
